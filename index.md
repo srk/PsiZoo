@@ -1,2 +1,5 @@
+This might be better as a wiki instead.
+
 | Method name (with original citations) | Derived from | 'Compatible' with | Classification | Implemented in | Energy Correction (Y/N) | Density Correction (Y/N) | Quality of geometries | Quality of densities | Quality of energies |  Recommended for | Deprecated for |
-| B3LYP [DOI:10.1021/j100096a001](http://dx.doi.org/10.1021/j100096a001) | ------------ | ----------------- | -------------- | -------------- | ----------------------- | ------------------------ | --------------------- | -------------------- | ------------------- | ---------------- | -------------- |
+| ---- | ------------ | ----------------- | -------------- | -------------- | ----------------------- | ------------------------ | --------------------- | -------------------- | ------------------- | ---------------- | -------------- |
+| B3LYP [DOI:10.1021/j100096a001](http://dx.doi.org/10.1021/j100096a001) |
