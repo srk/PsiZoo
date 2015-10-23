@@ -1,0 +1,2 @@
+| Method name (with original citations) | Derived from | 'Compatible' with | Classification | Implemented in | Energy Correction (Y/N) | Density Correction (Y/N) | Quality of geometries | Quality of densities | Quality of energies |  Recommended for | Deprecated for |
+| --------------------------------------| ------------ | ----------------- | -------------- | -------------- | ----------------------- | ------------------------ | --------------------- | -------------------- | ------------------- | ---------------- | -------------- |
